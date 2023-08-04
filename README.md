@@ -1,3 +1,3 @@
 # React Slider
 
-React application which allows you to see different images with a slider
+Slider d'images en react avec javascript
